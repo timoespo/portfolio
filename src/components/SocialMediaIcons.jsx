@@ -1,4 +1,6 @@
 import github from '../assets/github-mark-white.png'
+import twitter from '../assets/twitter.png'
+import linkedin from '../assets/linkedin.png'
 
 const SocialMediaIcons = () => {
   return (
@@ -9,7 +11,7 @@ const SocialMediaIcons = () => {
         target='_blank'
         rel='noreferrer'
       >
-        <img alt='linkedin-link' src='../assets/linkedin.png' />
+        <img alt='linkedin-link' src={linkedin} />
       </a>
 
       <a
@@ -26,7 +28,7 @@ const SocialMediaIcons = () => {
         target='_blank'
         rel='noreferrer'
       >
-        <img alt='twitter-link' src='../assets/twitter.png' />
+        <img alt='twitter-link' src={twitter} />
       </a>
     </div>
   )
