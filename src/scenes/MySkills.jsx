@@ -103,12 +103,7 @@ const MySkills = () => {
           <p className='mt-5'>
             As a creative and forward-thinking web developer, I am passionate
             about leveraging innovative solutions to enhance user experiences
-            and streamline development processes. Whether it's exploring new
-            technologies or devising creative approaches to solve complex
-            problems, I am committed to pushing the boundaries of what is
-            possible in web development. I am constantly seeking out new
-            opportunities to learn and grow, and am excited to bring fresh
-            perspectives and ideas to the table.
+            and streamline development processes.
           </p>
         </motion.div>
 
@@ -138,9 +133,7 @@ const MySkills = () => {
             approach web development with a creative and innovative mindset. I
             enjoy exploring new ideas and approaches to web development, and I
             am always eager to find unique and imaginative solutions to complex
-            challenges. Whether it's brainstorming new features or designing
-            engaging user experiences, I am committed to bringing a sense of
-            creativity and imagination to every project I work on.
+            challenges.
           </p>
         </motion.div>
       </div>
